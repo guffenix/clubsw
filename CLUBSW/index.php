@@ -91,13 +91,13 @@ Te invita a participar en el Campamento Vacacional "System Camp 1.0"</p>
 									<h2>Inscripción</h2>
 									<form method="post" action="#">
 										<div class="row uniform">
-											<div class="6u 12u$(xsmall)">
+											<div class="12u$">
 												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nombre" />
 											</div>
-											<div class="6u 12u$(xsmall)">
+											<div class="12u$">
 												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Apellido" />
 											</div>
-											<div class="6u$ 12u$(xsmall)">
+											<div class="12u$">
 												<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
 											</div>
 											<div class="12u$">
@@ -121,20 +121,20 @@ Te invita a participar en el Campamento Vacacional "System Camp 1.0"</p>
 											</div>
 
 											<div class="3u 12u$(small)">
-												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-												<label for="demo-priority-low">Taller 1</label>
+												<input type="radio" id="taller1" name="demo-priority" checked>
+												<label for="taller1">Taller 1</label>
 											</div>
 											<div class="3u 12u$(small)">
-												<input type="radio" id="demo-priority-normal" name="demo-priority">
-												<label for="demo-priority-normal">Taller 2</label>
+												<input type="radio" id="taller2" name="demo-priority">
+												<label for="taller2">Taller 2</label>
 											</div>
 											<div class="3u 12u$(small)">
-												<input type="radio" id="demo-priority-high" name="demo-priority">
-												<label for="demo-priority-high">Taller 3</label>
+												<input type="radio" id="taller3" name="demo-priority">
+												<label for="taller3">Taller 3</label>
 											</div>
 											<div class="3u$ 12u$(small)">
-												<input type="radio" id="demo-priority-high" name="demo-priority">
-												<label for="demo-priority-high">Taller 4</label>
+												<input type="radio" id="taller4" name="demo-priority">
+												<label for="taller4">Taller 4</label>
 											</div>
 											
 											
