@@ -85,6 +85,70 @@ Te invita a participar en el Campamento Vacacional "System Camp 1.0"</p>
 				<!-- Two -->
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
+
+<!-- Formulario Nuevo evento-->
+							<section>
+									<h2>Inscripción</h2>
+									<form method="post" action="#">
+										<div class="row uniform">
+											<div class="6u 12u$(xsmall)">
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nombre" />
+											</div>
+											<div class="6u 12u$(xsmall)">
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Apellido" />
+											</div>
+											<div class="6u$ 12u$(xsmall)">
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+											</div>
+											<div class="12u$">
+												<div class="select-wrapper">
+													<select name="demo-category" id="demo-category">
+														<option value="">- Institución -</option>
+														<option value="1">Pontificia Universidad Católica del Ecuador</option>
+														<option value="1">Universidad Politécnica Salesiana - UPS</option>
+														<option value="1">Universidad de las Fuerzas Armadas - ESPE</option>
+														
+													</select>
+												</div>
+											</div>
+
+<div class="12u$">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Otra</label>
+												<div class="6u$ 12u$(xsmall)">
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nombre de su institución" />
+											</div>
+											</div>
+
+											<div class="3u 12u$(small)">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Taller 1</label>
+											</div>
+											<div class="3u 12u$(small)">
+												<input type="radio" id="demo-priority-normal" name="demo-priority">
+												<label for="demo-priority-normal">Taller 2</label>
+											</div>
+											<div class="3u 12u$(small)">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">Taller 3</label>
+											</div>
+											<div class="3u$ 12u$(small)">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">Taller 4</label>
+											</div>
+											
+											
+											
+											<div class="12u$">
+												<ul class="actions">
+													<li><input type="submit" value="Enviar Inscripción" class="special" /></li>
+													
+												</ul>
+											</div>
+										</div>
+									</form>
+								</section>
+
 							<h2>Próximos Eventos</h2>
 							<p>El Club de Software de la Universidad de las Fuerzas Armadas ESPE estará presente en los siguiente eventos, no te los puedes perder!</p>
 							<div class="features">
@@ -104,6 +168,8 @@ Es la nube para los negocios modernos. Abierto, flexible, escalable, está lleno
 								
 							</div>
 							
+
+
 						</div>
 					</section>
 
